@@ -1,5 +1,5 @@
 //your JS code here. If required.
- const changeButton = document.getElementById('Change_button');
+ const changeButton = document.getElementById('change_button');
     const resetButton = document.getElementById('reset_button');
 
     changeButton.addEventListener('click', () => {
