@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
- #grid-container {
+ .grid-container {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 10px;
       width: 300px;
+	 margin:20px;
     }
 
     .grid-item {
